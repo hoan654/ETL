@@ -1,4 +1,3 @@
-# ETL
 # 🛠️ Quy trình ETL bằng Python
 
 ## 📌 Tổng quan
@@ -65,7 +64,3 @@ Dự án này được xây dựng với mục tiêu thực hành bài học ETL
 
 ---
 
-## 🧠 Tác giả
-
-*Điền tên của bạn tại đây*  
-*Thêm GitHub hoặc thông tin liên hệ nếu cần*
