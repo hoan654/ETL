@@ -62,5 +62,3 @@ Mục tiêu là thực hành tự động hóa toàn bộ quy trình ETL, đảm
 
 Dự án này được xây dựng với mục tiêu thực hành bài học ETL trong khoá học Data Science. Mô phỏng một tình huống thực tế nơi dữ liệu đến từ nhiều nguồn, cần được xử lý và hợp nhất để phục vụ cho việc phân tích hoặc ra quyết định.
 
----
-
